@@ -22,14 +22,14 @@ repository               : "shuhui-zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot_light.png"
   name             : "Shuhui Zhu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science at the University of Waterloo"
   location         : "Ontario, Canada"
-  employer         : "Red Brick University"
+  employer         : "University of Waterloo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shuhui.zhu@uwaterloo.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-0154-0065"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
