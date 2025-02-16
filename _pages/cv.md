@@ -15,7 +15,7 @@ Education
 * MMath. in Computational Mathematics, University of Waterloo, 2021
 * BEc. in Financial Statistics and Risk Management, Southwestern University of Finance and Economics, 2020
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
