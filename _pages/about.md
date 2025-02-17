@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research mainly focuses on the intersection of cooperative AI, reinforcement learning, mechanism design and social choice. 
+I am a Ph.D. candidate at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research mainly focuses on the intersection of cooperative AI, reinforcement learning, mechanism design and social choice. My recent works are mainly about mixed-motive cooperation in multi-agent systems. 
