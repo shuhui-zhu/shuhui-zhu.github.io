@@ -9,6 +9,9 @@ redirect_from:
 
 I am a Ph.D. candidate in Computer Science at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research interests lie in the intersection of cooperative AI, reinforcement learning, mechanism design and social choice. My recent works mainly focus on mixed-motive cooperation in multi-agent systems. 
 
+---
+You can reach me at shuhui [dot] zhu [at] uwaterloo [dot] ca.
+
 News
 ======
 * **January 2025**: Our paper [Learning to Negotiate via Voluntary Commitment](https://openreview.net/forum?id=DZwHPyPeZO) was accepted to *The 28th International Conference on Artificial Intelligence and Statistics* ([*AISTATS, 2025*](https://virtual.aistats.org/Conferences/2025)).
