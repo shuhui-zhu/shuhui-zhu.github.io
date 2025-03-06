@@ -33,12 +33,31 @@ Publications
     </p>
     <p style="margin-top: 0; margin-bottom: 5px;">
       <b>Shuhui Zhu</b>, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart<br>
-      <i>AISTATS 2025</i> <br>
-      <a href="https://arxiv.org/abs/your-paper-id" style="color: #2E7F93;">arXiv</a> | 
+      <i>AISTATS, 2025</i> <br>
+      <a href="https://arxiv.org/abs/your-paper-id" style="color: #2E7F93;">Paper</a> | 
       <a href="https://github.com/your-github-repo" style="color: #2E7F93;">Code</a>
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We present a novel framework where agents can voluntarily commit to actions in strategic interactions, improving cooperation in mixed-motive environments.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/dto.jpg" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Spline Parameterization for Continuous Normalizing Flows
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      <b>Shuhui Zhu</b><br>
+      <i>Master's Thesis, 2021</i> <br>
+      <a href="https://uwaterloo.ca/computational-mathematics/sites/default/files/uploads/documents/shuhui_zhu_research_paper.pdf" style="color: #2E7F93;">Thesis</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      I develop a Spline-based parameterization method for Continuous Normalizing Flows using Neural ODEs, formulating the problem as an optimal control task to efficiently learn time-dependent patterns while reducing computational cost and maintaining accuracy.
     </p>
   </div>
 </div>
