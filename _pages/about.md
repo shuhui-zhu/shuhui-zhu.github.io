@@ -64,6 +64,25 @@ Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/bpisbg.webp" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Bayesian Persuasion Is a Bargaining Game
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Yue Lin, <b>Shuhui Zhu</b>, William A Cunningham, Wenhao Li, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
+      <i>Submitted to ICLR, 2024</i> <br>
+      <a href="https://openreview.net/forum?id=RWiqprM18N" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      We reformulate Bayesian persuasion as a bargaining game, demonstrating that the receiver can leverage strategic commitments to counteract the sender’s informational advantage, and validate this perspective through theoretical analysis and empirical experiments with large language models, which exhibit bargaining behaviors in persuasion tasks.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="images/dto.png" alt="Paper Figure" width="300">
   </div>
   <div style="flex: 1;">
