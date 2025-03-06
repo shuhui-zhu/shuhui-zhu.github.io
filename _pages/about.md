@@ -28,16 +28,16 @@ Publications
     <img src="images/MCG.jpg" alt="Paper Figure" width="300">
   </div>
   <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
       Learning to Negotiate via Voluntary Commitment
     </p>
-    <p>
-      <b>Shuhui Zhu</b>, Minghao Li, Pascal Poupart<br>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      <b>Shuhui Zhu</b>, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart<br>
       <i>AISTATS 2025</i> <br>
-      <a href="https://arxiv.org/abs/your-paper-id" style="color: #336666;">arXiv</a> | 
-      <a href="https://github.com/your-github-repo" style="color: #336666;">Code</a>
+      <a href="https://arxiv.org/abs/your-paper-id" style="color: #2E7F93;">arXiv</a> | 
+      <a href="https://github.com/your-github-repo" style="color: #2E7F93;">Code</a>
     </p>
-    <p style="font-size: 16px; line-height: 1.5;">
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We present a novel framework where agents can voluntarily commit to actions in strategic interactions, improving cooperation in mixed-motive environments.
     </p>
   </div>
