@@ -20,22 +20,7 @@
 {% endif %} -->
 
 <div class="page__footer-copyright">
-    <!-- &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br /> -->
-    <!-- Last update: {{ "now" | date: '%Y-%m-%d' %}} -->
-    Last Update: {{ "now" | date: "%B, %Y" }}
+  <!-- &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br /> -->
+  <!-- Last update: {{ "now" | date: '%Y-%m-%d' %}} -->
+  Last Update: {{ "now" | date: "%B, %Y" }}
 </div>
-
-<script>
-    function toggleAbstract(id, btn) {
-        var abstract = document.getElementById(id);
-        var icon = btn.querySelector(".toggle-icon");
-
-        if (abstract.style.display === "none" || abstract.style.display === "") {
-            abstract.style.display = "block";
-            icon.textContent = "▼"; // Downward arrow when expanded
-        } else {
-            abstract.style.display = "none";
-            icon.textContent = "▶"; // Rightward arrow when collapsed
-        }
-    }
-</script>

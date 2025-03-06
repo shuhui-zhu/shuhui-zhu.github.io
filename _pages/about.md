@@ -26,28 +26,16 @@ Publications
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-year">2025</div>
-    <!-- Unified container for image and content -->
-    <div class="publication-container">
-      <!-- Paper Figure -->
-      <div class="publication-image">
-        <img src="https://via.placeholder.com/120" alt="Paper Figure">
+    <div class="timeline-content">
+      <h4>Learning to Negotiate via Voluntary Commitment</h4>
+      <p><i>Shuhui Zhu, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart</i></p>
+      <span class="label">AISTATS 2025</span><br>
+      <a href="https://openreview.net/forum?id=DZwHPyPeZO" target="_blank" class="btn">📄 Paper</a>  
+      <a href="https://github.com/shuhui-zhu/DCL" target="_blank" class="btn">📄 Code</a>  
+      <button class="toggle-abstract" onclick="toggleAbstract('abstract1')">▼</button>
+      <div id="abstract1" class="abstract-content">
+        <p><strong>Abstract:</strong> The partial alignment and conflict of autonomous agents lead to mixed-motive scenarios in many real-world applications. However, agents may fail to cooperate in practice even when cooperation yields a better outcome. One well known reason for this failure comes from non-credible commitments. To facilitate commitments among agents for better cooperation, we define Markov Commitment Games (MCGs), a variant of commitment games, where agents can voluntarily commit to their proposed future plans. Based on MCGs, we propose a learnable commitment protocol via policy gradients. We further propose incentive-compatible learning to accelerate convergence to equilibria with better social welfare. Experimental results in challenging mixed-motive tasks demonstrate faster empirical convergence and higher returns for our method compared with its counterparts. Our code is available at https://github.com/shuhui-zhu/DCL.</p>
       </div>
-      <!-- Paper Content -->
-      <div class="publication-content">
-        <h4>Learning to Negotiate via Voluntary Commitment</h4>
-        <p><i>Shuhui Zhu, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart</i></p>
-        <span class="label">AISTATS 2025</span><br>
-        <a href="https://openreview.net/forum?id=DZwHPyPeZO" target="_blank" class="btn"> Paper</a>  
-        <a href="https://github.com/shuhui-zhu/DCL" target="_blank" class="btn">
-        <i class="fa-brands fa-github"></i> Code
-        </a>
-        <button class="toggle-abstract" onclick="toggleAbstract('abstract1', this)">
-        <span class="toggle-icon">▶</span> Abstract
-        </button>
-        <div id="abstract1" class="abstract-content">
-          <p><strong>Abstract:</strong> The partial alignment and conflict of autonomous agents lead to mixed-motive scenarios in many real-world applications. However, agents may fail to cooperate in practice even when cooperation yields a better outcome. One well-known reason for this failure comes from non-credible commitments. To facilitate commitments among agents for better cooperation, we define Markov Commitment Games (MCGs), a variant of commitment games, where agents can voluntarily commit to their proposed future plans. Based on MCGs, we propose a learnable commitment protocol via policy gradients. We further propose incentive-compatible learning to accelerate convergence to equilibria with better social welfare. Experimental results in challenging mixed-motive tasks demonstrate faster empirical convergence and higher returns for our method compared with its counterparts. Our code is available at <a href="https://github.com/shuhui-zhu/DCL" target="_blank">https://github.com/shuhui-zhu/DCL</a>.</p>
-        </div>
-      </div>
-    </div> <!-- End of publication-container -->
+    </div>
   </div>
 </div>
