@@ -23,21 +23,21 @@ News
 
 Publications
 ======
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="images/MCG.jpg" alt="Paper Figure" width="200">
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/MCG.jpg" alt="Paper Figure" width="300">
   </div>
-  <div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000;">
+      Learning to Negotiate via Voluntary Commitment
+    </p>
     <p>
-      <a href="https://openreview.net/forum?id=DZwHPyPeZO" style="font-size: 18px; font-weight: bold; color: #007bff;">
-        Learning to Negotiate via Voluntary Commitment
-      </a><br>
       <b>Shuhui Zhu</b>, Minghao Li, Pascal Poupart<br>
       <i>AISTATS 2025</i> <br>
-      <a href="https://arxiv.org/abs/your-paper-id" style="color: #007bff;">arXiv</a> | 
-      <a href="https://github.com/your-github-repo" style="color: #007bff;">Code</a>
+      <a href="https://arxiv.org/abs/your-paper-id" style="color: #336666;">arXiv</a> | 
+      <a href="https://github.com/your-github-repo" style="color: #336666;">Code</a>
     </p>
-    <p style="font-size: 14px;">
+    <p style="font-size: 16px; line-height: 1.5;">
       We present a novel framework where agents can voluntarily commit to actions in strategic interactions, improving cooperation in mixed-motive environments.
     </p>
   </div>
