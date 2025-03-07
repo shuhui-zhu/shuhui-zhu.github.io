@@ -34,7 +34,7 @@ Publications
     <p style="margin-top: 0; margin-bottom: 5px;">
       <b>Shuhui Zhu</b>, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart<br>
       <i>AISTATS, 2025</i> <br>
-      <a href="https://openreview.net/forum?id=DZwHPyPeZO" style="color: #2E7F93;">Paper</a> | 
+      <a href="https://arxiv.org/abs/2503.03866" style="color: #2E7F93;">Paper</a> | 
       <a href="https://github.com/shuhui-zhu/DCL" style="color: #2E7F93;">Code</a>
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
