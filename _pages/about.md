@@ -36,6 +36,7 @@ Publications
       <i>AISTATS, 2025</i> <br>
       <a href="https://arxiv.org/abs/2503.03866" style="color: #2E7F93;">Paper</a> | 
       <a href="https://github.com/shuhui-zhu/DCL" style="color: #2E7F93;">Code</a>
+      <a href="https://shuhui-zhu.github.io/files/seminar_talk_commitment.pdf" style="color: #2E7F93;">Talk</a>
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We present a novel framework where agents can voluntarily commit to actions in strategic interactions, improving cooperation in mixed-motive environments.
