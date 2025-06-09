@@ -13,7 +13,7 @@ You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu
 
 News
 ======
-* **July 2025**: I will be at ([*EC'25 Workshop on Swap Regret and Strategic Learning*](https://sites.google.com/view/strategic-learning-ec25)) and ([*Cooperative AI Summer School 2025*](https://www.cooperativeai.com/summer-school/summer-school-2025)) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://openreview.net/forum?id=DZwHPyPeZO). 
+* **July 2025**: I will be at [*EC'25 Workshop on Swap Regret and Strategic Learning*](https://sites.google.com/view/strategic-learning-ec25) and [*Cooperative AI Summer School 2025*](https://www.cooperativeai.com/summer-school/summer-school-2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://openreview.net/forum?id=DZwHPyPeZO). 
 * **January 2025**: Our paper [Learning to Negotiate via Voluntary Commitment](https://openreview.net/forum?id=DZwHPyPeZO) was accepted to *The 28th International Conference on Artificial Intelligence and Statistics* ([*AISTATS, 2025*](https://virtual.aistats.org/Conferences/2025)).
 * **August 2024**: Joined Nomarlity Lab as a research assistant at University of Toronto & Schwartz Reisman Institute, supervised by [Prof. Gillian Hadfield](https://engineering.jhu.edu/faculty/gillian-hadfield/).
 * **July 2024**: Attended [CIFAR Deep Learning + Reinforcement Learning Summer School](https://dlrl.ca).
