@@ -25,6 +25,25 @@ Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/bpisbg.webp" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Information Bargaining: Bilateral Commitment in Bayesian Persuasion
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Yue Lin, <b>Shuhui Zhu</b>, William A Cunningham, Wenhao Li, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
+      <i>Submitted to NeurIPS, 2025</i> <br>
+      <a href="https://arxiv.org/abs/2506.05876" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      This paper reframes Bayesian persuasion as an information bargaining problem to address its complexity in long-term interactions. Unlike one-sided commitment models, the proposed framework enables fairer and more efficient cooperation by balancing the sender's and receiver's roles. Empirical validation using LLMs confirms the framework’s predictions.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="images/MCG.jpg" alt="Paper Figure" width="300">
   </div>
   <div style="flex: 1;">
