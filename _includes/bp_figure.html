@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Theory Flowchart</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for the flowchart container and text */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .mermaid {
+            /* Ensures the Mermaid diagram is centered and responsive */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+
+    <!-- Container for the Mermaid flowchart -->
+    <div class="bg-white rounded-lg shadow-xl p-6 md:p-8 w-full max-w-4xl">
+        <h1 class="text-2xl font-bold text-center text-gray-800 mb-6">Information, Persuasion, and Bargaining Flowchart
+        </h1>
+        <div class="mermaid">
+            graph TD
+            subgraph "Cheap Talk"
+            direction BT
+            A1["An excessive gap in objectives <br>prevents collaboration."]:::dashedStyle
+            A2["Cheap Talk"]:::solidStyle
+            A2 -- "Partition Equilibrium" --> A1
+            end
+
+            subgraph "Bayesian Persuasion"
+            direction BT
+            B1["The receiver complies as long as the <br>recommendation is posterior-optimal."]:::dashedStyle
+            B2["Bayesian Persuasion"]:::solidStyle
+            B2 -- "Bayes Correlated Equilibrium" --> B1
+            end
+
+            subgraph "Information Bargaining"
+            direction BT
+            C1["A proposer commits to an <br>incentive-compatible scheme while <br>maximizing its own
+            payoff."]:::dashedStyle
+            C2["Information Bargaining"]:::solidStyle
+            C2 -- "Subgame Perfect Equilibrium" --> C1
+            end
+
+            A2 -- "Sender's Commitment" --> B2
+            B2 -- "Reduction <br>(Game-Structure Being Inherently <br>Known to the Receiver)" --> C2
+            C1 -- "Sender = Proposer" --> B1
+
+            %% --- Styling Definitions ---
+
+            %% Defines the look for solid rectangular boxes
+            classDef solidStyle fill:#D6EAF8,stroke:#3498DB,stroke-width:2px,color:#212F3D,font-weight:bold
+
+            %% Defines the look for dashed rectangular boxes
+            classDef dashedStyle fill:#FDEBD0,stroke:#F39C12,stroke-width:2px,stroke-dasharray: 5 5,color:#212F3D
+
+            %% Styling for the connecting arrows (links)
+            %% The links are styled based on their order of appearance in the code.
+            %% Links inside subgraphs are typically processed first.
+            %% 0: A2->A1, 1: B2->B1, 2: C2->C1 (Black Arrows)
+            linkStyle 0 stroke:#34495E,stroke-width:1.5px
+            linkStyle 1 stroke:#34495E,stroke-width:1.5px
+            linkStyle 2 stroke:#34495E,stroke-width:1.5px
+
+            %% 3: A2->B2 (Black Arrow)
+            linkStyle 3 stroke:#34495E,stroke-width:1.5px
+
+            %% 4: B2->C2, 5: C1->B1 (Blue Arrows)
+            linkStyle 4 stroke:#2980B9,stroke-width:2px
+            linkStyle 5 stroke:#2980B9,stroke-width:2px
+
+            %% Center-aligns the text inside the dashed boxes for better readability
+            style A1 text-align:center
+            style B1 text-align:center
+            style C1 text-align:center
+
+        </div>
+    </div>
+
+    <!-- Script to render the Mermaid diagram -->
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+
+</body>
+
+</html>
