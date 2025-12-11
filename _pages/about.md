@@ -25,7 +25,11 @@ News
 Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
+  <!-- <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/AgentLLM_EG.pdf" alt="Paper Figure" width="300">
+  </div> -->
+  <div style="flex: 0 0 300px; margin-right: 20px; display: flex; flex-direction: column; gap: 20px;">
+    <img src="images/DecisionProcess.pdf" alt="Paper Figure" width="300">
     <img src="images/AgentLLM_EG.pdf" alt="Paper Figure" width="300">
   </div>
   <div style="flex: 1;">
@@ -38,7 +42,7 @@ Publications
       <a href="files/GossipLLMs.pdf" style="color: #2E7F93;">Paper</a>
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
-      Decentralized self-interested LLM agents struggle to maintain cooperation in mixed-motive settings, so we introduce public gossip as a decentralized reputation mechanism that theoretically and empirically promotes cooperation in indirect reciprocity games. Building on this, we propose ALIGN, an automated gossip-based agentic framework that enables agents to assess trustworthiness, sustain reciprocity, and robustly exclude defectors, leading to improved cooperation and social welfare.
+      We introduce public gossip as a decentralized reputation mechanism that enables self-interested LLM agents to cooperate in mixed-motive settings. Building on this idea, our ALIGN framework uses open-ended gossip to assess trustworthiness, sustain reciprocity, and reliably exclude defectors.
     </p>
   </div>
 </div>
