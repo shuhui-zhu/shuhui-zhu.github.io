@@ -26,6 +26,25 @@ Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/DecisionProcess.pdf" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      <b>Shuhui Zhu</b>, Yue Lin, Shriya Kaistha, Wenhao Li, Baoxiang Wang, Hongyuan Zha, Gillian K Hadfield, Pascal Poupart<br>
+      <i>Working Paper</i> <br>
+      <a href="files/GossipLLMs.pdf" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      Decentralized self-interested LLM agents struggle to maintain cooperation in mixed-motive settings, so we introduce public gossip as a decentralized reputation mechanism that theoretically and empirically promotes cooperation in indirect reciprocity games. Building on this, we propose ALIGN, an automated gossip-based agentic framework that enables agents to assess trustworthiness, sustain reciprocity, and robustly exclude defectors, leading to improved cooperation and social welfare.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="images/BP_Flowchart.pdf" alt="Paper Figure" width="300">
   </div>
   <div style="flex: 1;">
@@ -34,7 +53,7 @@ Publications
     </p>
     <p style="margin-top: 0; margin-bottom: 5px;">
       Yue Lin, <b>Shuhui Zhu</b>, William A Cunningham, Wenhao Li, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
-      <i>Submitted to NeurIPS, 2025</i> <br>
+      <i>Working Paper</i> <br>
       <a href="https://arxiv.org/abs/2506.05876" style="color: #2E7F93;">Paper</a>
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
