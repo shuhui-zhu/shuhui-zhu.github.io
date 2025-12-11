@@ -26,7 +26,7 @@ Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/DecisionProcess.pdf" alt="Paper Figure" width="300">
+    <img src="images/AgentLLM_EG.pdf" alt="Paper Figure" width="300">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
