@@ -25,6 +25,25 @@ News
 Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/mpp.png" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Policy-Conditioned Policies for Multi-Agent Task Solving
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Yue Lin, <b>Shuhui Zhu</b>, Wenhao Li, Ang Li, Dan Qiao, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
+      <i>Working Paper</i> <br>
+      <a href="https://arxiv.org/abs/2512.21024" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      We introduce Policy-Conditioned Policies, a paradigm that represents multi-agent strategies as human-interpretable code and leverages Large Language Models to iteratively synthesize and optimize these programmatic policies for adaptive task solving.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <!-- <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="images/AgentLLM_EG.pdf" alt="Paper Figure" width="300">
   </div> -->
