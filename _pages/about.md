@@ -59,6 +59,7 @@ Publications
       <b>Shuhui Zhu</b>, Yue Lin, Shriya Kaistha, Wenhao Li, Baoxiang Wang, Hongyuan Zha, Gillian K Hadfield, Pascal Poupart<br>
       <i>Working Paper</i> <br>
       <a href="https://arxiv.org/abs/2602.07777" style="color: #2E7F93;">Paper</a>
+      <a href="https://github.com/shuhui-zhu/ALIGN" style="color: #2E7F93;">Code</a> |
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We introduce public gossip as a decentralized reputation mechanism that enables self-interested LLM agents to cooperate in mixed-motive settings. Building on this idea, our ALIGN framework uses hierarchical gossip to assess trustworthiness, sustain reciprocity, and reliably exclude defectors.
