@@ -25,25 +25,6 @@ News
 Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/mpp.png" alt="Paper Figure" width="300">
-  </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Policy-Conditioned Policies for Multi-Agent Task Solving
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
-      Yue Lin, <b>Shuhui Zhu</b>, Wenhao Li, Ang Li, Dan Qiao, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
-      <i>Working Paper</i> <br>
-      <a href="https://arxiv.org/abs/2512.21024" style="color: #2E7F93;">Paper</a>
-    </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
-      We introduce Policy-Conditioned Policies, a paradigm that represents multi-agent strategies as human-interpretable code and leverages Large Language Models to iteratively synthesize and optimize these programmatic policies for adaptive task solving.
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <!-- <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="images/AgentLLM_EG.pdf" alt="Paper Figure" width="300">
   </div> -->
@@ -63,6 +44,44 @@ Publications
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We introduce public gossip as a decentralized reputation mechanism that enables self-interested LLM agents to cooperate in mixed-motive settings. Building on this idea, our ALIGN framework uses hierarchical gossip to assess trustworthiness, sustain reciprocity, and reliably exclude defectors.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/altar.png" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Altared Environments: The Role of Normative Infrastructure in AI Alignment
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Rakshit Trivedi, Nikhil Chandak, Andrei Ioan Muresanu, <b>Shuhui Zhu</b>, Atrisha Sarkar, Joel Z Leibo, Dylan Hadfield-Menell, Gillian K Hadfield<br>
+      <i>Submitted to ICLR, 2024</i> <br>
+      <a href="https://openreview.net/pdf?id=Gd6QrBLHBN" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      We propose Altared Games, a novel Markov game framework integrating a classification institution to enable AI agents to adapt to dynamic norms, demonstrating its effectiveness in enhancing cooperation and social welfare in multi-agent reinforcement learning environments.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="images/mpp.png" alt="Paper Figure" width="300">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Policy-Conditioned Policies for Multi-Agent Task Solving
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Yue Lin, <b>Shuhui Zhu</b>, Wenhao Li, Ang Li, Dan Qiao, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
+      <i>Working Paper</i> <br>
+      <a href="https://arxiv.org/abs/2512.21024" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      We introduce Policy-Conditioned Policies, a paradigm that represents multi-agent strategies as human-interpretable code and leverages Large Language Models to iteratively synthesize and optimize these programmatic policies for adaptive task solving.
     </p>
   </div>
 </div>
@@ -104,25 +123,6 @@ Publications
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We present a novel framework where agents can voluntarily commit to actions in strategic interactions, improving cooperation in mixed-motive environments.
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/altar.png" alt="Paper Figure" width="300">
-  </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Altared Environments: The Role of Normative Infrastructure in AI Alignment
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
-      Rakshit Trivedi, Nikhil Chandak, Andrei Ioan Muresanu, <b>Shuhui Zhu</b>, Atrisha Sarkar, Joel Z Leibo, Dylan Hadfield-Menell, Gillian K Hadfield<br>
-      <i>Submitted to ICLR, 2024</i> <br>
-      <a href="https://openreview.net/pdf?id=Gd6QrBLHBN" style="color: #2E7F93;">Paper</a>
-    </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
-      We propose Altared Games, a novel Markov game framework integrating a classification institution to enable AI agents to adapt to dynamic norms, demonstrating its effectiveness in enhancing cooperation and social welfare in multi-agent reinforcement learning environments.
     </p>
   </div>
 </div>
