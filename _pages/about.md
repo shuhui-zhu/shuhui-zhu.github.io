@@ -128,7 +128,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="images/bpisbg.webp" alt="Paper Figure" width="300">
   </div>
@@ -145,7 +145,7 @@ Publications
       We reformulate Bayesian persuasion as a bargaining game, demonstrating that the receiver can leverage strategic commitments to counteract the sender’s informational advantage, and validate this perspective through theoretical analysis and empirical experiments with large language models, which exhibit bargaining behaviors in persuasion tasks.
     </p>
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
