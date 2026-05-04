@@ -13,7 +13,7 @@ You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu
 
 News
 ======
-* **April 2026**: Our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) was accepted to *The 40th International Conference on Machine Learning* ([*ICML, 2026*](https://icml.cc/Conferences/2026)).
+* **April 2026**: Our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) was accepted to *The 43rd International Conference on Machine Learning* ([*ICML, 2026*](https://icml.cc/Conferences/2026)).
 * **August 2025**: I will be at [*RLC 2025 Workshop on Coordination and Cooperation in Multi-Agent Reinforcement Learning*](https://sites.google.com/view/cocomarl2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://arxiv.org/abs/2503.03866). 
 * **July 2025**: I will be at [*EC'25 Workshop on Swap Regret and Strategic Learning*](https://sites.google.com/view/strategic-learning-ec25) and [*Cooperative AI Summer School 2025*](https://www.cooperativeai.com/summer-school/summer-school-2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://arxiv.org/abs/2503.03866). 
 * **January 2025**: Our paper [Learning to Negotiate via Voluntary Commitment](https://openreview.net/forum?id=DZwHPyPeZO) was accepted to *The 28th International Conference on Artificial Intelligence and Statistics* ([*AISTATS, 2025*](https://virtual.aistats.org/Conferences/2025)).
