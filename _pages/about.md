@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Computer Science at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research interests lie in the intersection of cooperative AI, reinforcement learning (RL), large language models (LLMs), mechanism design, information design and game theory. My recent works mainly focus on mixed-motive cooperation in multi-agent systems, including RL-driven agents and generative agents. 
+I am a Ph.D. candidate in Computer Science at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research focuses on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am particularly interested in designing mechanisms and algorithms that promote cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-driven and generative agents.
 
 ---
 You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu@uwaterloo.ca).
