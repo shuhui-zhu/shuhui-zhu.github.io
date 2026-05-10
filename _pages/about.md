@@ -26,12 +26,12 @@ News
 Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <!-- <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/AgentLLM_EG.jpg" alt="Paper Figure" width="300">
+  <!-- <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/AgentLLM_EG.jpg" alt="Paper Figure" width="420">
   </div> -->
-  <div style="flex: 0 0 300px; margin-right: 20px; display: flex; flex-direction: column; gap: 20px;">
-    <img src="images/DecisionProcess.jpg" alt="Paper Figure" width="300">
-    <img src="images/AgentLLM_EG.jpg" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px; display: flex; flex-direction: column; gap: 20px;">
+    <img src="images/DecisionProcess.jpg" alt="Paper Figure" width="420">
+    <img src="images/AgentLLM_EG.jpg" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
@@ -50,8 +50,8 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/MCG.jpg" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/MCG.jpg" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
@@ -72,8 +72,8 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/mpp.png" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/mpp.png" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
@@ -91,8 +91,8 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/BP_Flowchart.jpg" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/BP_Flowchart.jpg" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
@@ -110,8 +110,8 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/altar.png" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/altar.png" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
@@ -129,8 +129,8 @@ Publications
 </div>
 
 <!-- <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/bpisbg.webp" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/bpisbg.webp" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
@@ -148,8 +148,8 @@ Publications
 </div> -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="images/dto.png" alt="Paper Figure" width="300">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/dto.png" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
