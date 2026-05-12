@@ -73,6 +73,25 @@ Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      The Reciprocity Gradient
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Yue Lin, Pascal Poupart, <b>Shuhui Zhu</b>, Dan Qiao, Wenhao Li, Yuan Liu, Hongyuan Zha, Baoxiang Wang<br>
+      <i>Working Paper</i> <br>
+      <a href="https://arxiv.org/abs/2605.08323" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+        We introduce the reciprocity gradient, a novel method for learning cooperative policies in multi-agent environments by explicitly backpropagating reward gradients through private estimators of opponents' policies, enabling agents to account for the complex influence of their actions on others' reputations and future rewards without relying on intrinsic rewards or reward shaping.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
     <img src="images/mpp.png" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
