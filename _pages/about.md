@@ -23,7 +23,7 @@ News
 * **July 2024**: Attended [CIFAR Deep Learning + Reinforcement Learning Summer School](https://dlrl.ca).
 * **January 2022**: Started Ph.D. at the David R. Cheriton School of Computer Science, University of Waterloo and the Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/).
 * **May 2021**: Started internship at [PerkinElmer](https://content.perkinelmer.com) as a Machine Learning Engineer.
-* **September 2020**: Started MMath in Computational Mathematics at the University of Waterloo, supervised by [Prof. Hans De Sterck](https://uwaterloo.ca/scholar/hdesterc) and [Prof. Jun Liu](https://uwaterloo.ca/hybrid-systems-lab/jun-liu).
+* **September 2020**: Started MMath in Computational Mathematics at the University of Waterloo, supervised by [Prof. Hans De Sterck](https://uwaterloo.ca/applied-mathematics/profiles/hans-sterck) and [Prof. Jun Liu](https://uwaterloo.ca/hybrid-systems-lab/jun-liu).
 
 Publications
 ======
