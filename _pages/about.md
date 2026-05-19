@@ -6,22 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Computer Science at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research focuses on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am particularly interested in designing mechanisms and algorithms that promote cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-driven and generative agents.
+I am a Ph.D. candidate in Computer Science at the University of Waterloo and the Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research focuses on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am particularly interested in designing mechanisms and algorithms that promote cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-driven and generative agents.
 
 ---
 You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu@uwaterloo.ca).
 
 News
 ======
-* **April 2026**: Our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) was accepted to *The 43rd International Conference on Machine Learning* ([*ICML, 2026*](https://icml.cc/Conferences/2026)).
-* **August 2025**: I will be at [*RLC 2025 Workshop on Coordination and Cooperation in Multi-Agent Reinforcement Learning*](https://sites.google.com/view/cocomarl2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://arxiv.org/abs/2503.03866). 
-* **July 2025**: I will be at [*EC'25 Workshop on Swap Regret and Strategic Learning*](https://sites.google.com/view/strategic-learning-ec25) and [*Cooperative AI Summer School 2025*](https://www.cooperativeai.com/summer-school/summer-school-2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://arxiv.org/abs/2503.03866). 
+* **August 2026**: I will present our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) at the [*Cooperative AI Summer School 2026*](https://www.cooperativeai.com/summer-school/summer-school-2026) in Toronto.
+* **July 2026**: I will present [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) at [*ICML 2026*](https://icml.cc/Conferences/2026) in Seoul.
+* **May 2026**: Our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) was accepted to *The 43rd International Conference on Machine Learning* ([*ICML 2026*](https://icml.cc/Conferences/2026)).
+* **August 2025**: I will be at [*RLC 2025 Workshop on Coordination and Cooperation in Multi-Agent Reinforcement Learning*](https://sites.google.com/view/cocomarl2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://arxiv.org/abs/2503.03866).
+* **July 2025**: I will be at [*EC'25 Workshop on Swap Regret and Strategic Learning*](https://sites.google.com/view/strategic-learning-ec25) and [*Cooperative AI Summer School 2025*](https://www.cooperativeai.com/summer-school/summer-school-2025) presenting our paper [Learning to Negotiate via Voluntary Commitment](https://arxiv.org/abs/2503.03866).
 * **January 2025**: Our paper [Learning to Negotiate via Voluntary Commitment](https://openreview.net/forum?id=DZwHPyPeZO) was accepted to *The 28th International Conference on Artificial Intelligence and Statistics* ([*AISTATS, 2025*](https://virtual.aistats.org/Conferences/2025)).
-* **August 2024**: Joined Nomarlity Lab as a research assistant at University of Toronto & Schwartz Reisman Institute, supervised by [Prof. Gillian Hadfield](https://engineering.jhu.edu/faculty/gillian-hadfield/).
+* **August 2024**: Joined the Normativity Lab as a research assistant at the University of Toronto and the Schwartz Reisman Institute, supervised by [Prof. Gillian Hadfield](https://engineering.jhu.edu/faculty/gillian-hadfield/).
 * **July 2024**: Attended [CIFAR Deep Learning + Reinforcement Learning Summer School](https://dlrl.ca).
-* **January 2022**: Started Ph.D. in David R. Cheriton School of Computer Science at University of Waterloo & Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/).
-* **May 2021**: Started internship at [PerkinElmer](https://content.perkinelmer.com) as a Machine Learning Engineer. 
-* **September 2020**: Started MMath. in Computational Mathematics at University of Waterloo, supervised by [Prof. Hans De Sterck](https://uwaterloo.ca/scholar/hdesterc) and [Prof. Jun Liu](https://uwaterloo.ca/hybrid-systems-lab/jun-liu).
+* **January 2022**: Started Ph.D. at the David R. Cheriton School of Computer Science, University of Waterloo and the Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/).
+* **May 2021**: Started internship at [PerkinElmer](https://content.perkinelmer.com) as a Machine Learning Engineer.
+* **September 2020**: Started MMath in Computational Mathematics at the University of Waterloo, supervised by [Prof. Hans De Sterck](https://uwaterloo.ca/scholar/hdesterc) and [Prof. Jun Liu](https://uwaterloo.ca/hybrid-systems-lab/jun-liu).
 
 Publications
 ======
