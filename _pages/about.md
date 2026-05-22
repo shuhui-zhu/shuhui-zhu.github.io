@@ -68,7 +68,7 @@ Publications
       <a href="https://shuhui-zhu.github.io/files/AISTATS_poster.pdf" style="color: #2E7F93;">Poster</a>
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
-      We present a novel framework where agents can voluntarily commit to actions in strategic interactions, improving cooperation in mixed-motive environments.
+      We present a novel framework where RL agents can propose and voluntarily commit to actions in strategic interactions, improving cooperation among self-interested agents in challenging mixed-motive environments.
     </p>
   </div>
 </div>
