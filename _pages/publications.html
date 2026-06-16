@@ -1,36 +1,115 @@
-<!-- ---
-layout: archive
+---
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p class="pub-intro">
+  A full list of my research. You can also find my work on
+  <a href="https://scholar.google.ca/citations?user=mKti-YAAAAAJ&hl=en">Google Scholar</a>.
+  <span class="me">Bold</span> denotes my name.
+</p>
 
-{% include base_path %} -->
+<div class="pubs">
 
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
+  <!-- ===================== 2026 ===================== -->
+  <div class="pub-year-group">
+    <div class="pub-year-rail"><span class="pub-year-label">2026</span></div>
+    <div class="pub-year-items">
 
+      <div class="pub-entry">
+        <p class="pub-entry-title">Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents</p>
+        <p class="pub-entry-authors"><span class="me">Shuhui Zhu</span>, Yue Lin, Shriya Kaistha, Wenhao Li, Baoxiang Wang, Hongyuan Zha, Gillian K Hadfield, Pascal Poupart</p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-accepted">ICML 2026</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://arxiv.org/abs/2602.07777">Paper</a>
+          <a class="pub-btn" href="https://github.com/shuhui-zhu/ALIGN">Code</a>
+          <a class="pub-btn" href="https://shuhui-zhu.github.io/files/ICML-ALIGN-slides.pdf">Slides</a>
+        </div>
+      </div>
 
+      <div class="pub-entry">
+        <p class="pub-entry-title">The Reciprocity Gradient</p>
+        <p class="pub-entry-authors">Yue Lin, Pascal Poupart, <span class="me">Shuhui Zhu</span>, Dan Qiao, Wenhao Li, Yuan Liu, Hongyuan Zha, Baoxiang Wang</p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-review">Under Review</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://arxiv.org/abs/2605.08323">Paper</a>
+        </div>
+      </div>
 
+    </div>
+  </div>
+
+  <!-- ===================== 2025 ===================== -->
+  <div class="pub-year-group">
+    <div class="pub-year-rail"><span class="pub-year-label">2025</span></div>
+    <div class="pub-year-items">
+
+      <div class="pub-entry">
+        <p class="pub-entry-title">Learning to Negotiate via Voluntary Commitment</p>
+        <p class="pub-entry-authors"><span class="me">Shuhui Zhu</span>, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart</p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-accepted">AISTATS 2025</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://arxiv.org/abs/2503.03866">Paper</a>
+          <a class="pub-btn" href="https://github.com/shuhui-zhu/DCL">Code</a>
+          <a class="pub-btn" href="https://shuhui-zhu.github.io/files/seminar_talk_commitment.pdf">Slides</a>
+          <a class="pub-btn" href="https://shuhui-zhu.github.io/files/AISTATS_poster.pdf">Poster</a>
+        </div>
+      </div>
+
+      <div class="pub-entry">
+        <p class="pub-entry-title">Policy-Conditioned Policies for Multi-Agent Task Solving</p>
+        <p class="pub-entry-authors">Yue Lin, <span class="me">Shuhui Zhu</span>, Wenhao Li, Ang Li, Dan Qiao, Pascal Poupart, Hongyuan Zha, Baoxiang Wang</p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-review">Under Review</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://arxiv.org/abs/2512.21024">Paper</a>
+        </div>
+      </div>
+
+      <div class="pub-entry">
+        <p class="pub-entry-title">Information Bargaining: Bilateral Commitment in Bayesian Persuasion</p>
+        <p class="pub-entry-authors">Yue Lin, <span class="me">Shuhui Zhu</span>, William A Cunningham, Wenhao Li, Pascal Poupart, Hongyuan Zha, Baoxiang Wang</p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-review">Under Review</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://arxiv.org/abs/2506.05876">Paper</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ===================== 2024 ===================== -->
+  <div class="pub-year-group">
+    <div class="pub-year-rail"><span class="pub-year-label">2024</span></div>
+    <div class="pub-year-items">
+
+      <div class="pub-entry">
+        <p class="pub-entry-title">Altared Environments: The Role of Normative Infrastructure in AI Alignment</p>
+        <p class="pub-entry-authors">Rakshit Trivedi, Nikhil Chandak, Andrei Ioan Muresanu, <span class="me">Shuhui Zhu</span>, Atrisha Sarkar, Joel Z Leibo, Dylan Hadfield-Menell, Gillian K Hadfield</p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-review">Under Review</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://openreview.net/pdf?id=Gd6QrBLHBN">Paper</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ===================== 2021 ===================== -->
+  <div class="pub-year-group">
+    <div class="pub-year-rail"><span class="pub-year-label">2021</span></div>
+    <div class="pub-year-items">
+
+      <div class="pub-entry">
+        <p class="pub-entry-title">Spline Parameterization for Continuous Normalizing Flows</p>
+        <p class="pub-entry-authors"><span class="me">Shuhui Zhu</span></p>
+        <p class="pub-entry-venue"><span class="pub-tag tag-thesis">Master's Thesis</span></p>
+        <div class="pub-btns">
+          <a class="pub-btn" href="https://uwaterloo.ca/computational-mathematics/sites/default/files/uploads/documents/shuhui_zhu_research_paper.pdf">Thesis</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>

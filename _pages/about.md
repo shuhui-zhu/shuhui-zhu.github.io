@@ -9,7 +9,7 @@ redirect_from:
 I am a Ph.D. candidate in Computer Science at the University of Waterloo and the Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research focuses on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am particularly interested in designing mechanisms and algorithms that promote cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-driven and generative agents.
 
 ---
-You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu@uwaterloo.ca).
+You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu@uwaterloo.ca). You can also find my work on [Google Scholar](https://scholar.google.ca/citations?user=mKti-YAAAAAJ&hl=en).
 
 News
 ======
@@ -33,121 +33,121 @@ News
 
 Publications
 ======
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px; display: flex; flex-direction: column; gap: 20px;">
-    <img src="images/DecisionProcess.jpg" alt="Paper Figure" width="420">
-    <img src="images/AgentLLM_EG.jpg" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/DecisionProcess.jpg" alt="Talk, Judge, Cooperate figure">
+    <img src="images/AgentLLM_EG.jpg" alt="ALIGN framework example">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents</p>
+    <p class="pub-meta">
       <b>Shuhui Zhu</b>, Yue Lin, Shriya Kaistha, Wenhao Li, Baoxiang Wang, Hongyuan Zha, Gillian K Hadfield, Pascal Poupart<br>
-      <i>ICML, 2026</i> <br>
-      <a href="https://arxiv.org/abs/2602.07777" style="color: #2E7F93;">Paper</a>  |
-      <a href="https://github.com/shuhui-zhu/ALIGN" style="color: #2E7F93;">Code</a>  |
-      <a href="https://shuhui-zhu.github.io/files/ICML-ALIGN-slides.pdf" style="color: #2E7F93;">Talk</a>
+      <span class="pub-venue">ICML, 2026</span><br>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2602.07777">Paper</a> &middot;
+        <a href="https://github.com/shuhui-zhu/ALIGN">Code</a> &middot;
+        <a href="https://shuhui-zhu.github.io/files/ICML-ALIGN-slides.pdf">Talk</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+    <p class="pub-abstract">
       We introduce public gossip as a decentralized reputation mechanism that enables self-interested LLM agents to cooperate in mixed-motive settings. Building on this idea, our ALIGN framework uses hierarchical gossip to assess trustworthiness, sustain reciprocity, and reliably exclude defectors.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/MCG.jpg" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/MCG.jpg" alt="Learning to Negotiate via Voluntary Commitment figure">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Learning to Negotiate via Voluntary Commitment
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">Learning to Negotiate via Voluntary Commitment</p>
+    <p class="pub-meta">
       <b>Shuhui Zhu</b>, Baoxiang Wang, Sriram Ganapathi Subramanian, Pascal Poupart<br>
-      <i>AISTATS, 2025</i> <br>
-      <a href="https://arxiv.org/abs/2503.03866" style="color: #2E7F93;">Paper</a> | 
-      <a href="https://github.com/shuhui-zhu/DCL" style="color: #2E7F93;">Code</a> |
-      <a href="https://shuhui-zhu.github.io/files/seminar_talk_commitment.pdf" style="color: #2E7F93;">Talk</a> |
-      <a href="https://shuhui-zhu.github.io/files/AISTATS_poster.pdf" style="color: #2E7F93;">Poster</a>
+      <span class="pub-venue">AISTATS, 2025</span><br>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2503.03866">Paper</a> &middot;
+        <a href="https://github.com/shuhui-zhu/DCL">Code</a> &middot;
+        <a href="https://shuhui-zhu.github.io/files/seminar_talk_commitment.pdf">Talk</a> &middot;
+        <a href="https://shuhui-zhu.github.io/files/AISTATS_poster.pdf">Poster</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+    <p class="pub-abstract">
       We present a novel framework where RL agents can propose and voluntarily commit to actions in strategic interactions, improving cooperation among self-interested agents in challenging mixed-motive environments.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/reciprocity_grad.png" alt="The Reciprocity Gradient figure">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      The Reciprocity Gradient
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">The Reciprocity Gradient</p>
+    <p class="pub-meta">
       Yue Lin, Pascal Poupart, <b>Shuhui Zhu</b>, Dan Qiao, Wenhao Li, Yuan Liu, Hongyuan Zha, Baoxiang Wang<br>
-      <i>Working Paper</i> <br>
-      <a href="https://arxiv.org/abs/2605.08323" style="color: #2E7F93;">Paper</a>
+      <span class="pub-venue">Working Paper</span><br>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2605.08323">Paper</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
-        We introduce the reciprocity gradient, a novel method for learning cooperative policies in multi-agent environments by explicitly backpropagating reward gradients through private estimators of opponents' policies, enabling agents to account for the complex influence of their actions on others' reputations and future rewards without relying on intrinsic rewards or reward shaping.
+    <p class="pub-abstract">
+      We introduce the reciprocity gradient, a novel method for learning cooperative policies in multi-agent environments by explicitly backpropagating reward gradients through private estimators of opponents' policies, enabling agents to account for the complex influence of their actions on others' reputations and future rewards without relying on intrinsic rewards or reward shaping.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/mpp.png" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/mpp.png" alt="Policy-Conditioned Policies figure">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Policy-Conditioned Policies for Multi-Agent Task Solving
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">Policy-Conditioned Policies for Multi-Agent Task Solving</p>
+    <p class="pub-meta">
       Yue Lin, <b>Shuhui Zhu</b>, Wenhao Li, Ang Li, Dan Qiao, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
-      <i>Working Paper</i> <br>
-      <a href="https://arxiv.org/abs/2512.21024" style="color: #2E7F93;">Paper</a>
+      <span class="pub-venue">Working Paper</span><br>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2512.21024">Paper</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+    <p class="pub-abstract">
       We introduce Policy-Conditioned Policies, a paradigm that represents multi-agent strategies as human-interpretable code and leverages Large Language Models to iteratively synthesize and optimize these programmatic policies for adaptive task solving.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/BP_Flowchart.jpg" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/BP_Flowchart.jpg" alt="Information Bargaining figure">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Information Bargaining: Bilateral Commitment in Bayesian Persuasion
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">Information Bargaining: Bilateral Commitment in Bayesian Persuasion</p>
+    <p class="pub-meta">
       Yue Lin, <b>Shuhui Zhu</b>, William A Cunningham, Wenhao Li, Pascal Poupart, Hongyuan Zha, Baoxiang Wang<br>
-      <i>Working Paper</i> <br>
-      <a href="https://arxiv.org/abs/2506.05876" style="color: #2E7F93;">Paper</a>
+      <span class="pub-venue">Working Paper</span><br>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2506.05876">Paper</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+    <p class="pub-abstract">
       This paper reframes Bayesian persuasion as an information bargaining problem to address its complexity in long-term interactions. Unlike one-sided commitment models, the proposed framework enables fairer and more efficient cooperation by balancing the sender's and receiver's roles. Empirical validation using LLMs confirms the framework’s predictions.
     </p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/altar.png" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/altar.png" alt="Altared Environments figure">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Altared Environments: The Role of Normative Infrastructure in AI Alignment
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">Altared Environments: The Role of Normative Infrastructure in AI Alignment</p>
+    <p class="pub-meta">
       Rakshit Trivedi, Nikhil Chandak, Andrei Ioan Muresanu, <b>Shuhui Zhu</b>, Atrisha Sarkar, Joel Z Leibo, Dylan Hadfield-Menell, Gillian K Hadfield<br>
-      <i>Submitted to ICLR, 2024</i> <br>
-      <a href="https://openreview.net/pdf?id=Gd6QrBLHBN" style="color: #2E7F93;">Paper</a>
+      <span class="pub-venue">Under Review</span><br>
+      <span class="pub-links">
+        <a href="https://openreview.net/pdf?id=Gd6QrBLHBN">Paper</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+    <p class="pub-abstract">
       We propose Altared Games, a novel Markov game framework integrating a classification institution to enable AI agents to adapt to dynamic norms, demonstrating its effectiveness in enhancing cooperation and social welfare in multi-agent reinforcement learning environments.
     </p>
   </div>
@@ -172,20 +172,20 @@ Publications
   </div>
 </div> -->
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/dto.png" alt="Paper Figure" width="420">
+<div class="pub-item">
+  <div class="pub-figure">
+    <img src="images/dto.png" alt="Spline Parameterization for Continuous Normalizing Flows figure">
   </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      Spline Parameterization for Continuous Normalizing Flows
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
+  <div class="pub-body">
+    <p class="pub-title">Spline Parameterization for Continuous Normalizing Flows</p>
+    <p class="pub-meta">
       <b>Shuhui Zhu</b><br>
-      <i>Master's Thesis, 2021</i> <br>
-      <a href="https://uwaterloo.ca/computational-mathematics/sites/default/files/uploads/documents/shuhui_zhu_research_paper.pdf" style="color: #2E7F93;">Thesis</a>
+      <span class="pub-venue">Master's Thesis, 2021</span><br>
+      <span class="pub-links">
+        <a href="https://uwaterloo.ca/computational-mathematics/sites/default/files/uploads/documents/shuhui_zhu_research_paper.pdf">Thesis</a>
+      </span>
     </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+    <p class="pub-abstract">
       I develop a Spline-based parameterization method for Continuous Normalizing Flows using Neural ODEs, formulating the problem as an optimal control task to efficiently learn time-dependent patterns while reducing computational cost and maintaining accuracy.
     </p>
   </div>
