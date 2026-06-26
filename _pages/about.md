@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Computer Science at the University of Waterloo and the Vector Institute, supervised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). My research focuses on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am particularly interested in designing mechanisms and algorithms that promote cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-driven and generative agents.
+I am a Ph.D. candidate in Computer Science at the University of Waterloo and the Vector Institute, advised by [Prof. Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/). I am also a research intern at [Vijil](https://vijil.ai/), advised by [Prof. Tim G. J. Rudner](https://timrudner.com/), and a research member of the [Normativity Lab](https://gillianhadfield.org/normativity-lab), where I work with [Prof. Gillian Hadfield](https://engineering.jhu.edu/faculty/gillian-hadfield/).
+
+My research centers on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am especially interested in developing mechanisms and algorithms that foster cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-based and generative agents.
 
 ---
 You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu@uwaterloo.ca).
