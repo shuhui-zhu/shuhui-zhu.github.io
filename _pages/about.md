@@ -10,6 +10,9 @@ I am a Ph.D. candidate in Computer Science at the University of Waterloo and the
 
 My research centers on cooperative and safe agentic AI, spanning reinforcement learning, large language models, mechanism design, information design, and game theory. I am especially interested in developing mechanisms and algorithms that foster cooperation, alignment, and safety in mixed-motive multi-agent systems, including both RL-based and generative agents.
 
+<div style="margin: 1.2em 0; padding: 0.9em 1em; border-left: 4px solid #2E7F93; background: #f3fbfc;">
+  <strong>Open to work:</strong> Expecting to complete my Ph.D. in December 2026, I am actively seeking research-focused roles &mdash; Postdoc, Research Scientist, and Research Engineer &mdash; to begin in 2027. If any of our interests align, don't hesitate to <a href="mailto:shuhui.zhu@uwaterloo.ca" style="color: #2E7F93;">reach out</a>!
+</div>
 ---
 You can reach me at [shuhui [dot] zhu [at] uwaterloo [dot] ca](mailto:shuhui.zhu@uwaterloo.ca).
 
