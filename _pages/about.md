@@ -52,7 +52,8 @@ Publications
       <i>ICML, 2026</i> <br>
       <a href="https://arxiv.org/abs/2602.07777" style="color: #2E7F93;">Paper</a>  |
       <a href="https://github.com/shuhui-zhu/ALIGN" style="color: #2E7F93;">Code</a>  |
-      <a href="https://shuhui-zhu.github.io/files/ICML-ALIGN-slides.pdf" style="color: #2E7F93;">Talk</a>
+      <a href="https://shuhui-zhu.github.io/files/ICML-ALIGN-slides.pdf" style="color: #2E7F93;">Talk</a> |
+      <a href="https://shuhui-zhu.github.io/files/ICML_poster.pdf" style="color: #2E7F93;">Poster</a> 
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We introduce public gossip as a decentralized reputation mechanism that enables self-interested LLM agents to cooperate in mixed-motive settings. Building on this idea, our ALIGN framework uses hierarchical gossip to assess trustworthiness, sustain reciprocity, and reliably exclude defectors.
