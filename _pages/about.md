@@ -21,7 +21,7 @@ News
 
 <div class="news-scroll" markdown="1">
 
-* **September 2026**: Our paper [The Reciprocity Gradient](https://arxiv.org/abs/2605.08323) was accepted to *[NeurIPS 2026](https://neurips.cc/Conferences/2026)*.
+* **September 2026**: Our paper [The Reciprocity Gradient](https://arxiv.org/abs/2605.08323) was accepted to *The Fortieth Annual Conference on Neural Information Processing Systems* ([NeurIPS 2026](https://neurips.cc/Conferences/2026)).
 * **August 2026**: I will present our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) at the [*Cooperative AI Summer School 2026*](https://www.cooperativeai.com/summer-school/summer-school-2026) in Toronto.
 * **July 2026**: I will present [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) at [*ICML 2026*](https://icml.cc/Conferences/2026) in Seoul.
 * **June 2026**: Joined [Vijil](https://vijil.ai/) as an assistant applied scientist, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/), researching and developing methods to improve the safety and trustworthiness of AI agents.
