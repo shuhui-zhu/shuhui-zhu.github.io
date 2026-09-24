@@ -21,6 +21,7 @@ News
 
 <div class="news-scroll" markdown="1">
 
+* **September 2026**: Our paper [The Reciprocity Gradient](https://arxiv.org/abs/2605.08323) was accepted to *[NeurIPS 2026](https://neurips.cc/Conferences/2026)*.
 * **August 2026**: I will present our paper [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) at the [*Cooperative AI Summer School 2026*](https://www.cooperativeai.com/summer-school/summer-school-2026) in Toronto.
 * **July 2026**: I will present [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](https://arxiv.org/abs/2602.07777) at [*ICML 2026*](https://icml.cc/Conferences/2026) in Seoul.
 * **June 2026**: Joined [Vijil](https://vijil.ai/) as an assistant applied scientist, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/), researching and developing methods to improve the safety and trustworthiness of AI agents.
@@ -38,6 +39,25 @@ News
 
 Publications
 ======
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      The Reciprocity Gradient
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Yue Lin, Pascal Poupart, <b>Shuhui Zhu</b>, Dan Qiao, Wenhao Li, Yuan Liu, Hongyuan Zha, Baoxiang Wang<br>
+      <i>NeurIPS, 2026</i> <br>
+      <a href="https://arxiv.org/abs/2605.08323" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+        We introduce the reciprocity gradient, a novel method for learning cooperative policies in multi-agent environments by explicitly backpropagating reward gradients through private estimators of opponents' policies, enabling agents to account for the complex influence of their actions on others' reputations and future rewards without relying on intrinsic rewards or reward shaping.
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 420px; margin-right: 20px; display: flex; flex-direction: column; gap: 20px;">
     <img src="images/DecisionProcess.jpg" alt="Paper Figure" width="420">
@@ -79,25 +99,6 @@ Publications
     </p>
     <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
       We present a novel framework where RL agents can propose and voluntarily commit to actions in strategic interactions, improving cooperation among self-interested agents in challenging mixed-motive environments.
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
-  <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
-  </div>
-  <div style="flex: 1;">
-    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
-      The Reciprocity Gradient
-    </p>
-    <p style="margin-top: 0; margin-bottom: 5px;">
-      Yue Lin, Pascal Poupart, <b>Shuhui Zhu</b>, Dan Qiao, Wenhao Li, Yuan Liu, Hongyuan Zha, Baoxiang Wang<br>
-      <i>Working Paper</i> <br>
-      <a href="https://arxiv.org/abs/2605.08323" style="color: #2E7F93;">Paper</a>
-    </p>
-    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
-        We introduce the reciprocity gradient, a novel method for learning cooperative policies in multi-agent environments by explicitly backpropagating reward gradients through private estimators of opponents' policies, enabling agents to account for the complex influence of their actions on others' reputations and future rewards without relying on intrinsic rewards or reward shaping.
     </p>
   </div>
 </div>
