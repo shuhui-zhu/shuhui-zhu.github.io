@@ -41,8 +41,8 @@ Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 420px; margin-right: 20px;">
-    <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
     <img src="images/reciprocity_gradient.png" alt="Paper Figure" width="420">
+    <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
   </div>
   <div style="flex: 1;">
     <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
