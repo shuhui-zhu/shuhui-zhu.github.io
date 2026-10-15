@@ -41,6 +41,25 @@ Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
   <div style="flex: 0 0 420px; margin-right: 20px;">
+    <img src="images/actionable_indeterminacy.png" alt="Paper Figure" width="420">
+  </div>
+  <div style="flex: 1;">
+    <p style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 5px;">
+      Ask, Relax, or Act? Evaluating Actionable Indeterminacy in LLM Preference Reasoning
+    </p>
+    <p style="margin-top: 0; margin-bottom: 5px;">
+      Ang Li, Yue Lin, Feifei Kou, Zhan Su, Prayag Tiwari, Wenhao Li, <b>Shuhui Zhu</b>, Hongyuan Zha, Baoxiang Wang<br>
+      <i>Preprint, 2026</i> <br>
+      <a href="https://arxiv.org/abs/2610.03102" style="color: #2E7F93;">Paper</a>
+    </p>
+    <p style="font-size: 16px; line-height: 1.5; margin-top: 0">
+      We study when LLM agents facing indeterminate preferences should act, ask for clarification, or propose the cheapest permissible constraint relaxation. Using a solver-grounded benchmark of matched pairs across allocation, scheduling, apartment choice, and stable matching, we find that models often intervene even when a justified action exists, and that correct decisions do not guarantee usable questions or repairs.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; font-family: Garamond, serif;">
+  <div style="flex: 0 0 420px; margin-right: 20px;">
     <img src="images/reciprocity_gradient.png" alt="Paper Figure" width="420">
     <img src="images/reciprocity_grad.png" alt="Paper Figure" width="420">
   </div>
